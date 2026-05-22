@@ -1,0 +1,68 @@
+---
+title: "6. előadás"
+weight: 600
+---
+
+
+## 1. A diverzifikáció fontossága és a „saját cég” csapdája
+
+A kockázatkezelés alapköve a **diverzifikáció**, azaz a befektetések megosztása. Sokan követik el azt a hibát, hogy minden pénzüket a saját vállalkozásukba fektetik, bízva annak magas hozamában. Ez azonban rendkívül veszélyes: egy per, egy rossz könyvelői döntés vagy egy üzlettárs tisztességetlensége pillanatok alatt tönkreteheti az élet munkáját és az összes megtakarítást. A saját cégre is befektetésként kell tekinteni, amelyben lehet az átlagnál több pénzünk, de **soha nem az összes**.
+
+## 2. Mik azok a befektetési alapok?
+
+Mivel kis tőkével (pl. 200-500 ezer forinttal) nehéz és költséges egyénileg sokféle részvényt venni, a befektetési alapok nyújtanak megoldást.
+
+- **Működése:** Sok befektető összeadja a pénzét, amit egy profi szakember kezel.
+- **Befektetési jegy:** Az alap egy önálló jogi személy, amely értékpapírt (befektetési jegyet) bocsát ki.
+- **Nettó eszközérték:** Az alap értékét 4 tizedesjegyig jegyzik (általában 1,0000-ról indul).
+- **Előnyök:** Egyszerűség (egyetlen tranzakcióval akár a világ 2000 legnagyobb cégébe is fektethetünk), rugalmasság, szakértelem és költséghatékonyság a méretgazdaságosság miatt.
+
+## 3. Az alapok típusai és működési keretei
+
+Az alapok létrehozásakor meg kell határozni egy **befektetési politikát**, amelytől az alapkezelő nem térhet el.
+
+- **Nyílt végű alapok:** Bármelyik nap vehetünk vagy visszaválthatunk jegyeket.
+- **Zárt végű alapok:** Csak a jegyzési időszakban lehet beszállni; kiszállni csak tőzsdei eladással lehet, ami gyakran csak veszteséggel (áron alul) lehetséges a gyenge forgalom miatt.
+- **Abszolút hozamú alapok:** Nincs kőbe vésett politikájuk, az alapkezelő azt csinálja, amit jónak lát. Fontos azonban tudni, hogy az ilyen alapok (pl. OTP Supra vagy Concorde Columbus/Vakmajom) célkitűzései és kockázatai drasztikusan eltérhetnek egymástól.
+
+## 4. A befektetési alapok szereplői és a biztonság
+
+A visszaélések elkerülése végett a funkciók elválnak egymástól:
+
+- **Alapkezelő:** Ő végzi az operatív munkát, a befektetési döntéseket hozza.
+- **Letétkezelő:** Nála van a tényleges pénz és az értékpapírok; az alapkezelő nem férhet hozzá közvetlenül a vagyonhoz, csak utasításokat adhat a tranzakciókra. Ez biztosítja, hogy az alapkezelő ne tudjon „megszökni” a pénzzel.
+- **Forgalmazó:** Itt (például bankfiókokban) lehet megvenni a jegyeket.
+- **BEVA (Befektető-védelmi Alap):** Csak akkor térít (20 000 euróig, 1 millió felett 90%-ot), ha az értékpapírokat ellopták, de nem véd a befektetési piaci kockázattól (árfolyamveszteségtől).
+
+## 5. Költségek és teljesítménymérés (Benchmark)
+
+A befektetési alapok legnagyobb hátránya a magas költség.
+
+- **TER mutató (Total Expense Ratio):** A teljes éves költségmutató, amit érdemes ellenőrizni (Magyarországon az átlag 1,7% - 2% körül mozog).
+- **Költségtípusok:** Alapkezelői díj (1,5-2%), letétkezelői díj, forgalmazási jutalék (vételkor vagy visszaváltáskor), és esetenként sikerdíj.
+- **Benchmark:** Ez az a viszonyítási pont (pl. BUX index vagy állampapír index), amihez az alap teljesítményét mérik. A legtöbb alap a költségek miatt hosszú távon alulteljesíti a benchmarkot.
+
+## 6. Speciális alapok és a tőkevédelem mítosza
+
+A bankok gyakran kínálnak **tőkevédett alapokat**, amelyek azt ígérik, hogy nem veszíthetjük el a befektetett tőkét.
+
+- **A valóság:** Ez nem varázslat, hanem egyszerű matematika. A pénz nagy részéből állampapírt vesznek, ami a futamidő végére kamatokkal együtt pont kiadja a kezdeti tőkét. A maradék kis részből opciókat vásárolnak, ami vagy bejön, vagy nem.
+- **Hátrány:** A jelenlegi alacsony kamatkörnyezetben a tőkevédelem felemészti a hozamlehetőséget és a költségeket, így ezek az alapok gyakran 0-2% körüli hozamot hoznak csak.
+
+## 7. Értékelési szempontok és Best Practice-ek
+
+- **Hozam és Szórás:** Soha ne nézzük a hozamot önmagában! A **szórás** mutatja meg a kockázatot (mennyire ingadozik az árfolyam). Egy magas hozamú, de magas szórású alap hosszú távon akár rosszabbul is teljesíthet, mint egy kiegyensúlyozottabb.
+- **Időtáv:** Éven túli hozamokat mindig évesítve (annualizált) adják meg, míg az éven belülieket nem szabad évesíteni, mert félrevezető.
+- **Likviditás:** Az ingatlanalapoknál számítani kell arra, hogy a kifizetés akár 90 nap is lehet, mivel az ingatlanokat nem lehet azonnal eladni.
+- **ETF (Exchange Traded Fund):** A „fapados” befektetési alap. Tőzsdén kereskednek vele, és mivel nincs mögötte drága bankfióki hálózat, a költsége töredéke (0,1% - 0,5%) a hagyományos alapoknak.
+
+## 8. Az arany mint befektetés
+
+Az arany nem fizet se kamatot, se osztalékot; csak az árfolyamnyereségre lehet játszani. Elsősorban „menekülőeszköz”, ami háborús vagy válságidőszakban drágul, de tartása drága és kockázatos is lehet a hatalmas árfolyam-ingadozások miatt. Pár millió forintos vagyon alatt általában nem javasolt vele foglalkozni.
+
+
+
+
+
+---
+# References
